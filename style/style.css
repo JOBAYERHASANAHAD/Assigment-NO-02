@@ -1,0 +1,77 @@
+*{
+    /* background-color: #111111; */
+    /* margin: auto;
+    padding: auto; */
+
+}
+
+#miamo{
+
+}
+.nav-clr{
+    color: orangered;
+}
+.first-nav{
+    display: flex;
+    padding: auto;
+    justify-content: space-between;
+    margin: 20px;
+}
+.navbar{
+    display: flex;
+    color: aliceblue;
+    justify-content: space-between;
+    background-color: dimgrey;
+    
+
+}
+.header{
+    display: flex;
+    margin: auto;
+    margin-left: 50px;
+
+}
+
+.habit{
+    text-align: center;
+    text-decoration: solid;
+    /* color: aliceblue; */
+
+}
+.picture{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+.Extra-Mile{
+    display: flex;
+    background-color: #696969;
+    border-radius: 20px;
+
+}
+.first-table{
+    border-collapse: collapse;
+    padding: auto;
+}
+.img-folder{
+
+}
+.full-chart{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 200px;
+
+}
+.BMI-chart{
+    background-color: #696969;
+
+}
+.last-ftr{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 50px;
+}
+.copyright{
+    text-align: center;
+
+}
