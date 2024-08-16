@@ -5,43 +5,90 @@
 
 }
 
-#miamo{
+#miama{
+    width: 400;
+    font-style: italic;
+    font-size: 78px;
+    line-height: 93.6px;
 
 }
 .nav-clr{
-    color: orangered;
+    background: #E6533C;
+;
+}
+
+.GYM{
+    font-style: italic;
+    width: 132px;
+    height: 43px;
+    margin-left: 70px;
+
+
+
 }
 .first-nav{
     display: flex;
-    padding: auto;
+    width: 1060px;
+    height: 46px;
+    top: 57px;
+    left: 190px;
     justify-content: space-between;
-    margin: 20px;
+ 
 }
 .navbar{
     display: flex;
-    color: aliceblue;
     justify-content: space-between;
-    background-color: dimgrey;
-    
+    width: 465px;
+    height: 46px;
+    border-radius: 39px;
+    border: 1px;
+    padding: 4px;
+    gap: 47px;
 
 }
 .header{
     display: flex;
-    margin: auto;
-    margin-left: 50px;
+    width: 1440px;
+    height: 715px;
+     background: linear-gradient(180deg, #111111 0%, rgba(119, 119, 119, 0) 100%);
+;
+
+}
+.header-body{
+    width: 600px;
+    height: 440px;
+    top: 199px;
+    left: 190px;
+    gap: 71px;   
+}
+.header-img{
+    width: 349px;
+    height: 580px;
+    top: 135px;
+    left: 877px;
 
 }
 
 .habit{
     text-align: center;
-    text-decoration: solid;
-    /* color: aliceblue; */
+    width: 1044px;
+    height: 452px;
+    top: 815px;
+    left: 198px;
+    gap: 58px;
+
 
 }
 .picture{
-    display: flex;
     justify-content: space-between;
-    margin-left: 200px;
+    display: flex;
+    width: 1044px;
+    height: 274px;
+    gap: 40px;
+}
+.circle{
+    border-radius:50%;
+
 }
 .Extra-Mile{
     display: flex;
@@ -54,6 +101,12 @@
     padding: auto;
 }
 .img-folder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+
 
 }
 .full-chart{
@@ -70,6 +123,8 @@
     display: flex;
     justify-content: space-between;
     margin: 10px 50px;
+    align-items: center;
+    
 }
 .copyright{
     text-align: center;
